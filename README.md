@@ -2,7 +2,7 @@
 
 First download the file here [flushcache.sh](https://transfer.sh/14R4oj/flushcache.sh) 
 
-download that file and open a `Terminal` window.  Oh god yes a terminal window, if you user terminal then ignore this part and use whichever emulator or terminal application program you wish.  
+download that file and open a `Terminal` window.  Oh god yes a terminal window, if you use Terminal, the Apple pre-loaded program, then great.  If not, then ignore this part and use whichever emulator or terminal application program you wish.  
 
 
 For those who dare say "that's too hard", read the script in this repo.  I mean a 12 year ould could have made that, I just refused to fucking learn `killall -HUP mDNSResponder`.   That makes me look pathetic, but so is having to write that when I wanna clean house.
